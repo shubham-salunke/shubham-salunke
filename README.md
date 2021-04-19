@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham-salunke
-- 👀 I’m interested in penetration testing, web-appicayion security
+- 👀 I’m interested in penetration testing, web-application security
 - 🌱 I’m currently learning through online resources.
 - 📫 How to reach me: Mail me @ 26sshubham@gmail.com
 
